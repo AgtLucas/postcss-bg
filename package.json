@@ -1,0 +1,25 @@
+{
+  "name": "postcss-bg",
+  "version": "1.0.0",
+  "description": "A PostCSS plugin to replace `bg:` with `background:`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgtLucas/postcss-bg.git"
+  },
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "background"
+  ],
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/postcss-bg/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/postcss-bg#readme"
+}
