@@ -1,4 +1,4 @@
-# postcss-bg
+# postcss-bg [![Build Status](https://travis-ci.org/AgtLucas/postcss-bg.svg?branch=master)](https://travis-ci.org/AgtLucas/postcss-bg)
 [PostCSS]: https://github.com/postcss/postcss
 A [PostCSS] plugin to replace `bg:` with `background`
 
