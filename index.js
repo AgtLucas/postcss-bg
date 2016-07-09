@@ -2,7 +2,7 @@ const postcss = require('postcss')
 
 module.exports = postcss.plugin('postcss-bg', () => {
   return (css) => {
-    css.eachDecl('bg', (decl) => {
+    css.walkDecls('bg', (decl) => {
       decl.prop = 'background'
     })
   }
