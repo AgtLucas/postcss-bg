@@ -6,4 +6,6 @@ gulp.task('test', () => {
     .pipe(mocha())
 })
 
-gulp.task('default', () => gulp.start('test'))
+gulp.task('default', () => {
+  gulp.start('test')
+})
