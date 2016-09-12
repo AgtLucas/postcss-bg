@@ -1,6 +1,6 @@
 {
   "name": "postcss-bg",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A PostCSS plugin to replace `bg:` with `background:`",
   "main": "index.js",
   "scripts": {
