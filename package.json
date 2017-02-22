@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/AgtLucas/postcss-bg#readme",
   "dependencies": {
-    "postcss": "^5.1.2"
+    "postcss": "^5.2.15"
   },
   "devDependencies": {
     "chai": "^3.5.0",
